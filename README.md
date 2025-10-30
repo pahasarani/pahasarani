@@ -1,16 +1,25 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**pahasarani/pahasarani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm **Pahasaranii** 👋
 
-Here are some ideas to get you started:
+**🎓 Student • Learning Programming & New Technologies**  
+**💻 Building cool stuff along the way!**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ **Tech Stack & Skills**
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+## 📊 **GitHub Stats**
+![Your Stats](https://github-readme-stats.vercel.app/api?username=pahasaranii&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pahasaranii&layout=compact&theme=radical&hide_border=true)
+
+## 🔥 **Streak Stats**
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=pahasaranii&theme=radical)
+
+## 👀 **Visitors Counter**
+![Visitors](https://visit-counter.itsvg.in/api?id=pahasaranii&label=Profile%20Views&color=1&icon=5&pretty=true)
+
+**⚡ Fun Fact:** Starting my GitHub journey – **Follow for updates!** 🚀
+
+</div>
