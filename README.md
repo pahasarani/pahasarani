@@ -15,8 +15,8 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pahasarani&layout=compact&theme=radical&hide_border=true) 
 
 ## 📌 Projects
-- [Simple HTML Page](https://github.com/pahasaranii/simple-html)
-- [JS Calculator](https://github.com/pahasaranii/calculator)
+- [Simple HTML Page](https://github.com/pahasarani/simple-html)
+- [JS Calculator](https://github.com/pahasarani/calculator)
 
 ## 🔥 **Streak Stats**
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=pahasarani&theme=radical)
